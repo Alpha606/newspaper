@@ -1,0 +1,37 @@
+  /* Custom CSS for alignment */
+  .header {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 50px; /* Increase font size for the title */
+}
+
+.navbar {
+    font-size: 40px; /* Increase font size for the navbar */
+}
+
+/* Style for weather */
+.weather-forecast {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px; /* Increase font size */
+}
+
+/* Style for image cards */
+.card {
+    margin-bottom: 20px;
+}
+#carouselExample {
+    max-height: 1000px; /* Set your desired height */
+    overflow: hidden;
+}
+/* Increase the font size of the article text */
+.column {
+    font-size: 30px; /* Adjust the font size as needed */
+}
+.header h1 {
+    font-size: 80px; /* Adjust the font size as needed */
+}
+.custom-dropdown-item {
+    font-size: 30px; /* You can adjust the font size to your preference */
+}
